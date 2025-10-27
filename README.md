@@ -1,6 +1,6 @@
 # Einstein Puzzles on Tabletop
 <p align="center">
-    <img src="doc/game_intro.png" width="400"/>
+    <img src="doc/game_intro.png" width="800"/>
 <p>
 <p align="center">
           &nbsp&nbsp🤗 <a href="https://huggingface.co/datasets/Roihn/Einstein-Puzzles-Data">Hugging Face Dataset</a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/Roihn/Einstein-Puzzles-Model">Hugging Face Model</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://arxiv.org/abs/xxxx.xxxxx">Paper</a>
