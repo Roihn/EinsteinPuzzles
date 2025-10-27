@@ -1,6 +1,12 @@
 # Einstein Puzzles on Tabletop
+<p align="center">
+    <img src="doc/game_intro.png" width="400"/>
+<p>
+<p align="center">
+          &nbsp&nbsp🤗 <a href="https://huggingface.co/datasets/Roihn/Einstein-Puzzles-Data">Hugging Face Dataset</a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/Roihn/Einstein-Puzzles-Model">Hugging Face Model</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://arxiv.org/abs/xxxx.xxxxx">Paper</a>
+</p>
 
-**Communication and Verification in LLM Agents towards Collaboration under Information Asymmetry** ([Arxiv](https://arxiv.org/abs/xxxx.xxxxx))
+**Communication and Verification in LLM Agents towards Collaboration under Information Asymmetry**
 
 *Run Peng\*, Ziqiao Ma\*, Amy Pang, Sikai Li, Zhang Xi-Jia, Yingzhuo Yu, Cristian-Paul Bara, Joyce Chai*
 
