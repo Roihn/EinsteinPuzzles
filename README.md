@@ -62,4 +62,13 @@ CUDA_VISIBLE_DEVICES=0 uv run src/eval/eval_game_verifier_model.py \
 ## Citation
 
 ```bibtex
+@misc{peng2025communicationverificationllmagents,
+      title={Communication and Verification in LLM Agents towards Collaboration under Information Asymmetry}, 
+      author={Run Peng and Ziqiao Ma and Amy Pang and Sikai Li and Zhang Xi-Jia and Yingzhuo Yu and Cristian-Paul Bara and Joyce Chai},
+      year={2025},
+      eprint={2510.25595},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.25595}, 
+}
 ```
